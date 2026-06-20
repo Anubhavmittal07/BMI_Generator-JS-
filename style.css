@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(31, 29, 29);
+    text-align: center;
+    display: grid;
+    place-items: center;
+}
+.container{
+    /* display: flex; */
+    border-radius: 7px;
+    text-align: center;
+    background-color: rgb(97, 88, 88);
+    height:fit-content;
+    width:fit-content;
+    padding: 25px;
+}
+input{
+    border-radius: 1px;
+}
+button{
+    border-radius: 1px;
+}
